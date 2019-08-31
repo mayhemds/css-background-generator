@@ -1,0 +1,28 @@
+{
+  "name": "gradient_generator",
+  "version": "1.0.0",
+  "description": "simple css background gradient generator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayhemds/css-background-generator.git"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "html",
+    "generator"
+  ],
+  "author": "Tyrone May",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayhemds/css-background-generator/issues"
+  },
+  "homepage": "https://github.com/mayhemds/css-background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
